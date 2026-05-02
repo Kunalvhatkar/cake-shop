@@ -22,10 +22,10 @@ It is designed to demonstrate **frontend development + containerization skills**
 - Docker  
 
 ## 📂 Project Structure
-cake-shop/
-│── index.html
-│── Dockerfile
-│── README.md
+cake-shop/   
+│── index.html   
+│── Dockerfile   
+│── README.md   
 
 ## 🐳 Docker Setup
 
