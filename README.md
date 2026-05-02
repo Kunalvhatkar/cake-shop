@@ -43,4 +43,4 @@ docker run -d -p 8080:80 cake-shop
 
 ### Open in Browser
 
-http://<Public-IP-AWS-ec2>:8080
+http:// < Public-IP-AWS-ec2 > :8080
